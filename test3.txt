@@ -1,0 +1,2 @@
+browser position chrX:71,254,814-71,301,522 
+track type=bed name="NMD split-ORFs" description="NMD split-ORF positions" color=0,0,200 bigDataUrl=https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/NMD_ORFs.bed
