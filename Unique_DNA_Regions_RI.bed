@@ -1,5 +1,5 @@
 browser position chr20:43,457,893-43,466,046
-track name="RI unique DNA" description="unique DNA region of split-ORFs" visibility=2 itemRgb="On"
+track name="RI unique DNA" description="unique DNA region of RI split-ORFs" visibility=2 itemRgb="On"
 chr19	19352285	19352394	ENSG00000129933|ENST00000262816	500	+	19352285	19352394	0,200,0	1	109	0
 chr12	929974	930050	ENSG00000002016|ENST00000228345	500	-	929974	930050	0,200,0	1	76	0
 chr6	26409916	26409976	ENSG00000026950|ENST00000082468	500	+	26409916	26409976	0,200,0	1	60	0

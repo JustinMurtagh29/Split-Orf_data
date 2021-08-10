@@ -1,5 +1,5 @@
 browser position 20:43,457,893-43,466,046
-track name="NMD unique Peptide Sequence" description="unique Peptide region of split-ORFs" visibility=2 itemRgb="On"
+track name="NMD unique Peptide Sequence" description="unique Peptide region of NMD split-ORFs" visibility=2 itemRgb="On"
 chr14	73263646	73263984	ENSG00000100767|ENST00000216658	500	+	73263646	73263984	200,0,0	2	136,42	0,296
 chr6	70486168	70486242	ENSG00000082269|ENST00000194672	500	+	70486168	70486242	200,0,0	1	74	0
 chr6	70477296	70480935	ENSG00000082269|ENST00000194672	500	+	70477296	70480935	200,0,0	2	36,34	0,3605

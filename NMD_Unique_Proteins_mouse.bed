@@ -1,5 +1,5 @@
 browser position chr17:80,507,509-80,514,736 
-track name="NMD unique Peptide Sequence" description="unique Peptide region of split-ORFs" visibility=2 itemRgb="On"
+track name="NMD unique Peptide Sequence" description="unique Peptide region of NMD split-ORFs" visibility=2 itemRgb="On"
 chr1	36467491	36467541	ENSMUSG00000001143|ENSMUST00000001171	500	-	36467491	36467541	200,0,0	1	50	0
 chr10	85864873	85864920	ENSMUSG00000001786|ENSMUST00000001837	500	+	85864873	85864920	200,0,0	1	47	0
 chr17	28818758	28818841	ENSMUSG00000004865|ENSMUST00000004987	500	-	28818758	28818841	200,0,0	1	83	0

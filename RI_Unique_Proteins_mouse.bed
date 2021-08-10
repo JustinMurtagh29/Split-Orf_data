@@ -1,5 +1,5 @@
 browser position chr17:80,507,509-80,514,736 
-track name="RI unique Peptide Sequence" description="unique Peptide region of split-ORFs" visibility=2 itemRgb="On"
+track name="RI unique Peptide Sequence" description="unique Peptide region of RI split-ORFs" visibility=2 itemRgb="On"
 chr1	143636203	143636235	ENSMUSG00000018199|ENSMUST00000018343	500	-	143636203	143636235	200,0,0	1	32	0
 chr11	51510806	51510907	ENSMUSG00000001056|ENSMUST00000001083	500	+	51510806	51510907	200,0,0	1	101	0
 chr11	86407742	86407813	ENSMUSG00000020516|ENSMUST00000020824	500	-	86407742	86407813	200,0,0	1	71	0
