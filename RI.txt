@@ -2,5 +2,6 @@ https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/RI_ORFs.be
 https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/RI_transcripts.bed
 https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/Unique_DNA_Regions_RI.bed
 https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/Unique_Protein_Regions_RI.bed
-https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/hs_iPScm_vs_RI_coverage.bedgraph
-https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/Leukemia_vs_RI_coverage.bedgraph
+https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/hs_iPScm_ERR3367797_vs_Genome.bedgraph
+https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/Leukemia_SRR11294610_vs_Genome.bedgraph
+https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/Leukemia_SRR11294611_vs_Genome.bedgraph
