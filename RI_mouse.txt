@@ -2,5 +2,5 @@ https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/RI_ORFs_mo
 https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/RI_transcripts_mouse.bed
 https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/RI_Unique_DNA_mouse.bed
 https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/RI_Unique_Proteins_mouse.bed
-https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/ERR3367717_vs_GRCm39_coverage.bedgraph
-https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/ERR3367718_vs_GRCm39_coverage.bedgraph
+https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/ERR3367791_vs_GRCm39_coverage.bedgraph
+https://raw.githubusercontent.com/JustinMurtagh29/Split-Orf_data/main/ERR3367792_vs_GRCm39_coverage.bedgraph
